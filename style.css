@@ -122,6 +122,7 @@ body.show-chatbot .chatbot-popup {
   height: 320px;
   margin-bottom: 82px;
   overflow-y: auto;
+  overflow-x: hidden;
   flex-direction: column;
   scrollbar-width: thin;
   scrollbar-color: #ccccf5 transparent;
